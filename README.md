@@ -9,6 +9,6 @@
 <p><span style="font-size: 18px;">Credits:</span></p>
 <p><a style="font-size: 18px;" href="https://www.planetminecraft.com/mob-skin/the-giga-chad-golem/">Gigachad golem skin by Unvoided</a></p>
 <p>&nbsp;</p>
-<p><a style="font-size: 18px;" href="https://www.youtube.com/watch?v=QJJYpsA5tv8" target="_blank" rel="noopener noreferrer">Gigachad song by Bring me the Horizon</a></p>
+<p><a style="font-size: 18px;" href="https://www.youtube.com/watch?v=CVyn021zMHo" target="_blank" rel="noopener noreferrer">Gigachad song by okulusplay</a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
