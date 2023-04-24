@@ -1,4 +1,4 @@
-#Golem Chad
+<h1>Golem Chad</h1>
 <p><span style="font-size: 18px;"><em>Made for TurtyWurty's meme modding competition.</em></span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">Allows you to turn your Iron Golems into Golem Chads by applying a nether star onto them, making them more than three times stronger, and <strong>'chadifying'</strong> them.</span></p>
