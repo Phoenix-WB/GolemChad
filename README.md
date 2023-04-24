@@ -3,7 +3,7 @@
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">Allows you to turn your Iron Golems into Golem Chads by applying a nether star onto them, making them more than three times stronger, and <strong>'chadifying'</strong> them.</span></p>
 <p>&nbsp;</p>
-<p><span style="font-size: 18px;">For whatever reason needed, I've added a config file so you can disable the gigachad music song that plays when you chadify the golem, alternatively, you can make a resource pack to rename the song in the path: "assets/golemchad/sounds/chad_theme.ogg".</span></p>
+<p><span style="font-size: 18px;">For whatever reason needed <b>(say for copyright reasons)</b>, I've added a config file so you can disable the gigachad music song that plays when you chadify the golem, alternatively, you can make a resource pack to rename the song in the path: "assets/golemchad/sounds/chad_theme.ogg".</span></p>
 <p>&nbsp;</p>
 <img src="https://media.forgecdn.net/attachments/651/724/2023-04-24_22.png" alt="" width="759" height="427">
 <p><span style="font-size: 18px;">Credits:</span></p>
