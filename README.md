@@ -5,6 +5,7 @@
 <p>&nbsp;</p>
 <p><span style="font-size: 18px;">For whatever reason needed, I've added a config file so you can disable the gigachad music song that plays when you chadify the golem, alternatively, you can make a resource pack to rename the song in the path: "assets/golemchad/sounds/chad_theme.ogg".</span></p>
 <p>&nbsp;</p>
+<p><span style="font-size: 18px;"><img src="https://media.forgecdn.net/attachments/651/724/2023-04-24_22.png" alt="" width="759" height="427" /></span></p>
 <p><span style="font-size: 18px;">Credits:</span></p>
 <p><a style="font-size: 18px;" href="https://www.planetminecraft.com/mob-skin/the-giga-chad-golem/">Gigachad golem skin by Unvoided</a></p>
 <p>&nbsp;</p>
