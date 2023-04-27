@@ -27,20 +27,6 @@ public class EntityEvents {
 	public static final UUID GOLEM_ATTACK_DAMAGE = UUID.fromString("57a1cb91-13d8-437a-a619-2e08f7db3997");
 
 	@SubscribeEvent
-	public static void onEntityTick(LivingTickEvent event) {
-		if (event.getEntity() instanceof IronGolem && !event.getEntity().getLevel().isClientSide()) {
-			IronGolem golem = (IronGolem) event.getEntity();
-
-			golem.getCapability(GolemChadlinessProvider.GOLEM_CHADLINESS).ifPresent(cap -> {
-				golem.getLevel().players().forEach(player -> {
-					GCPackets.sendToPlayer(new GolemChadCapSyncS2CPacket(cap.isChad(), golem.getId()),
-							(ServerPlayer) player);
-				});
-			});
-		}
-	}
-
-	@SubscribeEvent
 	public static void onInteractWithEntity(PlayerInteractEvent.EntityInteract event) {
 		ItemStack star = event.getItemStack();
 		Entity golem = event.getTarget();
